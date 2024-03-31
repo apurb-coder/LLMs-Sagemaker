@@ -19,7 +19,7 @@ To run the code in this repository, you will need:
 ## **Getting Started**
   Clone this repository to your local machine:
   
-    git clone https://github.com/valianttorch/LLMs-Sagemaker.git
+    git clone https://github.com/apurb-coder/LLMs-Sagemaker.git
     cd LLMs-Sagemaker
 
   Download a pre-trained LLM checkpoint from the Hugging Face model hub or use your own pre-trained checkpoint. <br>
